@@ -1,6 +1,6 @@
 {
   "name": "matryoshka",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "MCP server for token-efficient large document analysis via the use of REPL state",
   "main": "src/index.ts",
   "scripts": {
